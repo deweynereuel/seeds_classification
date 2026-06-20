@@ -41,8 +41,7 @@ Este projeto desenvolve e compara modelos capazes de identificar automaticamente
 
 ```
 seeds-classification/
-│
-├── FASE_4
+├──FASE_4
 │     └──CTWP
 │         └──Cap3
 │             └──seeds_classificacao_trigo.ipynb   # Notebook principal (todas as etapas)
